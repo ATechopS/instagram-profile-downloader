@@ -14,7 +14,7 @@ A simple and efficient tool to download photos and stories from public Instagram
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/instagram-profile-downloader.git
+git clone https://github.com/ATechopS/instagram-profile-downloader.git
 cd instagram-profile-downloader
 ```
 
